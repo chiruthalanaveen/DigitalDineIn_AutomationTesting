@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify_Restaurant_Menu</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>889774aa-af68-466a-a68e-3cc926bdaea6</testCaseGuid>
+</TestCaseEntity>

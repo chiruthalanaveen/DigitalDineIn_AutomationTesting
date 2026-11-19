@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify_Food_Search</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>974e2a56-6072-49d5-bbb3-0cbd17d70f33</testCaseGuid>
+</TestCaseEntity>

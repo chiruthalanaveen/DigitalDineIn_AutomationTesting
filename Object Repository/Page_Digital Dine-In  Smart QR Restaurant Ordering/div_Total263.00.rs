@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total263.00</name>
+   <tag></tag>
+   <elementGuidId>1f58ba7f-43b7-43ec-b631-b57abd85670c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='₹2.00'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between.border-t.border-neutral-200.pt-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Total₹263.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>239c61cb-1012-4e17-aec1-7815744acb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between border-t border-neutral-200 pt-3</value>
+      <webElementGuid>65ab7897-1424-44eb-9681-928f72fb1bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total₹263.00</value>
+      <webElementGuid>21cf144c-04fa-4928-b424-c3a1fa761c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;antialiased&quot;]/main[@class=&quot;dd-mobile-shell bg-[#f7f6f2] px-3 min-[390px]:px-4 pb-[max(2rem,env(safe-area-inset-bottom))] pt-[max(1rem,env(safe-area-inset-top))] text-neutral-900&quot;]/div[@class=&quot;dd-mobile-frame&quot;]/div[@class=&quot;rounded-[32px] border border-black/5 bg-white p-5 shadow-[0_22px_60px_rgba(15,23,42,.08)]&quot;]/div[@class=&quot;mt-4 rounded-[24px] border border-neutral-200 p-4&quot;]/div[@class=&quot;mt-4 space-y-2 border-t border-neutral-100 pt-4 text-sm&quot;]/div[@class=&quot;flex justify-between border-t border-neutral-200 pt-3&quot;]</value>
+      <webElementGuid>c5918ca8-d80e-4318-a291-02eee5f04901</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹2.00'])[1]/following::div[1]</value>
+      <webElementGuid>20c2964e-6fa6-4d81-8407-bb9a759d7f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurant platform fee'])[1]/following::div[1]</value>
+      <webElementGuid>ad924959-7023-46a5-aa20-7fb988c7ef32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>c9ccbad1-7980-445a-9a99-9436c299b4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total₹263.00' or . = 'Total₹263.00')]</value>
+      <webElementGuid>593070fd-0a54-4e02-967b-75ca1e6a22eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

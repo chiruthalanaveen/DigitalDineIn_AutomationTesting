@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Verify_Cart_Item</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Chiruthala Naveen</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>626da231-9f91-4db8-a7be-f7a9767fdc5b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>104ece1d-7d28-4a23-a07f-038e981e0766</testCaseGuid>
+</TestCaseEntity>
